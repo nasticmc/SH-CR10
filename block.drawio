@@ -229,7 +229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Power" id="SvmGMVHbU5tJuUT8hBx4">
-    <mxGraphModel dx="268" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="411" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SGt4mR0q2XHbS2SQR2bL-0" />
         <mxCell id="SGt4mR0q2XHbS2SQR2bL-1" parent="SGt4mR0q2XHbS2SQR2bL-0" />
@@ -303,9 +303,6 @@
         </mxCell>
         <mxCell id="EGWSOkY1vcWyFsizza1H-3" value="24V" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="SGt4mR0q2XHbS2SQR2bL-1">
           <mxGeometry x="452" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EGWSOkY1vcWyFsizza1H-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="SGt4mR0q2XHbS2SQR2bL-1">
-          <mxGeometry x="509" y="721" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
