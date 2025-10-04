@@ -4,12 +4,16 @@ The Scrap heap CR10S
 Resources used:
 
   Board githubs:   
-  BTT PICO GITHUB: https://github.com/bigtreetech/SKR-Pico/
-  BTT EDDY GITHUB: https://github.com/bigtreetech/Eddy
-  BTT EBB42 GITHUB: https://github.com/bigtreetech/EBB
+  BTT PICO GITHUB: 
+  https://github.com/bigtreetech/SKR-Pico/
+  BTT EDDY GITHUB: 
+  https://github.com/bigtreetech/Eddy
+  BTT EBB42 GITHUB: 
+  https://github.com/bigtreetech/EBB
   
   Guides used:
-  SKR PICO CAN SETUP: https://github.com/rootiest/zippy_guides/blob/main/guides/pico_can.md
+  SKR PICO CAN SETUP: 
+  https://github.com/rootiest/zippy_guides/blob/main/guides/pico_can.md
 
 Stls
 
