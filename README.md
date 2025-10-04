@@ -3,11 +3,13 @@ The Scrap heap CR10S
 
 Resources used:
 
-  Board githubs:   
+  Board githubs:
   BTT PICO GITHUB: 
   https://github.com/bigtreetech/SKR-Pico/
+  
   BTT EDDY GITHUB: 
   https://github.com/bigtreetech/Eddy
+  
   BTT EBB42 GITHUB: 
   https://github.com/bigtreetech/EBB
   
